@@ -10,4 +10,4 @@ The repository includes the following files.
 
 * ```TrueSignal-function.R```: The true signal functions such as two block structure and exponential function.
 
-* ```NoiseDistribution-function.R```: The data-generating functions such as (I) Homogeneous, (II) Block heterogeneous, and Smooth heterogeneous.
+* ```NoiseDistribution-function.R```: The data-generating functions such as (I) Homogeneous, (II) Block heterogeneous, and (III) Smooth heterogeneous.
